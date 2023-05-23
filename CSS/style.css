@@ -1,0 +1,68 @@
+/* HEADER */
+
+header {
+    background-color: rgb(9, 107, 193);
+    color: aliceblue;
+    padding: 0.50em;
+    font-size: 1em;
+
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    z-index: 1;
+}
+header img {
+    height: 2em;
+}
+
+a {
+    color: aliceblue;
+    text-decoration: none;
+    padding: 8px;
+}
+
+#unorder {
+    padding: 10px;
+    margin: 0px;
+}
+
+.lista {
+    display: inline;
+}
+
+nav {
+    float: right;
+}
+
+/* FOOTER */
+footer {
+    background-color: rgb(9, 107, 193);
+    color: aliceblue;
+    padding: 0.50em;
+    font-size: 1.5em;
+
+    height: 200px;
+    bottom: 0px;
+    width: 100%;
+    z-index: 1;
+    display: flex;
+}
+
+#social ul li {
+    display: block;
+    padding: 7px;
+}
+
+.container {
+    margin-right: 40px;
+    top: 0%;
+    height: 2em;
+    width: 500px;
+}
+
+.containe {
+    top: 0%;
+    height: 2em;
+    width: 450px;
+    float: right;
+}
