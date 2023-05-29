@@ -17,6 +17,7 @@ header {
 }
 header img {
     height: 2em;
+    display: inline;
 }
 
 a {
