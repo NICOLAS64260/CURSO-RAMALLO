@@ -1,3 +1,7 @@
+body {
+    margin: 0px;
+}
+
 /* HEADER */
 
 header {
@@ -32,6 +36,20 @@ a {
 
 nav {
     float: right;
+}
+
+#home {
+    margin-top: 2em;
+    min-height: 75vh;
+    width: 100%;
+    background-image: url('./../img/IMAGEN\ HEROE\ 1RA.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+    color: aliceblue;
+
+    position: relative;
 }
 
 /* FOOTER */
